@@ -219,14 +219,16 @@ padding:3px 5px;
 	font-size:20px;
 }
 .counter {
-    background: orange;
-    border: 0px solid;
-    padding: 12px;
-    border-radius: 5px;
-    width: 97px;
+   	 background: orange;
+  	  border: 0px solid;
+    	padding: 12px;
+  	  border-radius: 5px;
+   	 width: 97px;
 	color:black;
-    height: auto;
+   	 height: auto;
 	margin:0 auto;
+	text-align:center;
+	width:100%;
 	text-align:center;
 }
 
